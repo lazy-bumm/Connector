@@ -28,19 +28,24 @@ Home Page
 
 Sign in
 
-![2023-12-18 (1)](https://github.com/lazy-bumm/Connector/assets/103312529/7005c07a-4277-4e4f-9009-d1e1f8415db7)
-
-Choose username (only unique are allowed)
-
 ![2023-12-18 (2)](https://github.com/lazy-bumm/Connector/assets/103312529/81a8df57-2973-49ae-82d7-c271f612121c)
 
 
+Choose username (only unique are allowed)
+![2023-12-18 (1)](https://github.com/lazy-bumm/Connector/assets/103312529/7005c07a-4277-4e4f-9009-d1e1f8415db7)
+
+
+Upload photo
 ![2023-12-18](https://github.com/lazy-bumm/Connector/assets/103312529/d565158a-e378-473a-ba6c-99a687299b78)
 
-
+Add Links 
 ![2023-12-18 (3)](https://github.com/lazy-bumm/Connector/assets/103312529/4ee2d9be-762e-4b9d-b6f8-7a911e4973b6)
 
+Edit Bio
+
 ![2023-12-18 (4)](https://github.com/lazy-bumm/Connector/assets/103312529/5b8b1c0e-a61c-41a9-861f-8e7b14fc9b09)
+
+Profile Page
 
 ![2023-12-18 (5)](https://github.com/lazy-bumm/Connector/assets/103312529/f98ecc28-a97a-48a9-9332-d92115009fb4)
 
